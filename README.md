@@ -1,2 +1,2 @@
 # Obserwator
-Wzorzec Projektowy w wersji polskiej. Zrobiony ot tak
+Wzorzec Projektowy w wersji polskiej. Zrobiony ot tak.
