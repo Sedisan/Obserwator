@@ -1,0 +1,1 @@
+Wymaga G++14. Jesli nie masz, dodajesz na górze biblioteke cstdlib i voila. Dziala.
